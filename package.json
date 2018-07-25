@@ -1,0 +1,20 @@
+{
+  "name": "xl-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "xl-server": "bin/xl-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "debug": "^3.1.0",
+    "ejs": "^2.6.1",
+    "mime": "^2.3.1"
+  }
+}
