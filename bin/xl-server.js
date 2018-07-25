@@ -4,9 +4,9 @@ let commander = require('commander');
 
 commander.on('--help', () => {
     console.log('\r\n how to use:');
-    console.log('    zf-server --port <val>');
-    console.log('    zf-server --host <val>');
-    console.log('    zf-server --dir <val>');
+    console.log('    xl-server --port <val>');
+    console.log('    xl-server --host <val>');
+    console.log('    xl-server --dir <val>');
 })
 
 commander
